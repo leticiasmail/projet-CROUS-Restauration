@@ -1,6 +1,6 @@
 # Projet CROUS – Analyse des services de restauration
 
-Projet d'analyse des services de restauration du CROUS (Lille & Valenciennes).
+Projet d'analyse des services de restauration du CROUS de Lille.
 
 ## Objectifs du projet
 
@@ -70,3 +70,21 @@ En arrivant en France, et notamment en étant moi-même logée dans une résiden
 - Ajouter les services manquants ou les food trucks pour compléter la base de données, ce qui permettrait d’avoir une meilleure vue d’ensemble sur tous les services proposés  
 - Créer un outil interactif pour que les étudiants puissent trouver rapidement un service CROUS près d’eux  
 - Visualiser les services sur une carte interactive pour mieux comprendre leur répartition
+
+## Conclusion
+
+Ce projet m’a permis de mieux comprendre l’offre de restauration du CROUS dans la région de Lille et Valenciennes. Grâce à l’exploration des données et à la visualisation, j’ai pu :
+
+- Identifier les zones et types de services disponibles pour les étudiants
+- Analyser la répartition géographique des établissements
+- Observer les horaires d’ouverture et constater certaines limites des données (absence de descriptions, codage binaire des horaires, types limités)
+
+Au-delà des résultats, ce projet a surtout été un **exercice d’apprentissage concret** :  
+
+- Comprendre comment manipuler des fichiers Excel avec **Pandas**
+- Filtrer et nettoyer les données pour ne garder que ce qui est pertinent
+- Visualiser les informations avec **Matplotlib** pour rendre les données compréhensibles
+
+Même si je ne maîtrise pas encore parfaitement le code, j’ai appris à **penser comme un data analyst** : réfléchir aux données dont on a besoin, savoir les représenter, et tirer des conclusions utiles. Ce projet m’a aussi donné des idées pour aller plus loin, comme créer un outil interactif pour les étudiants ou enrichir la base de données avec des services manquants.
+
+En résumé, l’expérience acquise et la compréhension des données sont bien plus précieuses que le simple fait de savoir générer du code de A à Z. L’essentiel est d’avoir appris à **observer, analyser et interpréter les données** pour en tirer un enseignement concret.
