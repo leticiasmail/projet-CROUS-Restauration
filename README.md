@@ -50,8 +50,8 @@ En arrivant en France, et notamment en étant moi-même logée dans une résiden
    - Vérification des colonnes vides et des doublons  
    - Étude des horaires d’ouverture (simplifiés)  
    - Exploration des coordonnées géographiques  
-
-# Visualisation avec Matplotlib
+  
+## Visualisation avec Matplotlib
 
 - Répartition des services par type (restaurant vs cafétéria) – **pie chart**  
 - Répartition des services par zone – **pie chart**  
